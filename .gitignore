@@ -1,0 +1,4 @@
+CLAUDE.md
+.env
+*.local.*
+!CLAUDE.local-template.md

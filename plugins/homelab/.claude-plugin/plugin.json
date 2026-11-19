@@ -1,0 +1,9 @@
+{
+  "name": "homelab",
+  "version": "1.0.0",
+  "description": "Proxmox LXC services and GitHub Actions CI/CD for a homelab.",
+  "license": "MIT",
+  "author": {
+    "name": "quantumryuu"
+  }
+}

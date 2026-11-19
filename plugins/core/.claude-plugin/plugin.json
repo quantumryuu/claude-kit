@@ -1,0 +1,9 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Troubleshooting method plus reviewer, hardening-auditor and runbook-writer subagents.",
+  "license": "MIT",
+  "author": {
+    "name": "quantumryuu"
+  }
+}

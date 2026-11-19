@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-kit": {
+      "source": { "source": "github", "repo": "quantumryuu/claude-kit" },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "core@claude-kit": true,
+    "homelab@claude-kit": true,
+    "powershell@claude-kit": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "powershell",
+  "version": "1.0.0",
+  "description": "PowerShell scripting with PSScriptAnalyzer and Pester, plus real-Windows testing on ephemeral Proxmox VMs built with Packer.",
+  "license": "MIT",
+  "author": {
+    "name": "quantumryuu"
+  }
+}
